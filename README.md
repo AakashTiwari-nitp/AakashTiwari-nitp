@@ -11,3 +11,19 @@
 ### Connect With Me
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-tiwari-in/)
+
+### GitHub Stats
+
+![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)](https://git.io/streak-stats)
