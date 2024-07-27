@@ -22,7 +22,7 @@
 
 ### GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AakashTiwari-nitp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### GitHub Streak
 
