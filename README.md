@@ -12,6 +12,14 @@
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-tiwari-in/)
 
+### Languages Learned
+
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ### GitHub Stats
 
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakashTiwari-nitp&show_icons=true&theme=radical)
@@ -19,6 +27,10 @@
 ### Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashTiwari-nitp&layout=compact&theme=radical)
+
+### GitHub Activity Graph
+
+[![Aakash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AakashTiwari-nitp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### GitHub Trophies
 
