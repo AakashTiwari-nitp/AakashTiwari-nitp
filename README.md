@@ -14,11 +14,11 @@
 
 ### GitHub Stats
 
-![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakashTiwari-nitp&show_icons=true&theme=radical)
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashTiwari-nitp&layout=compact&theme=radical)
 
 ### GitHub Trophies
 
@@ -26,4 +26,4 @@
 
 ### GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashTiwari-nitp&theme=radical)](https://git.io/streak-stats)
