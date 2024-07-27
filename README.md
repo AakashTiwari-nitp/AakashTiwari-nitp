@@ -18,7 +18,9 @@
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![React Js](https://img.shields.io/badge/-React-3776AB?style=flat&logo=React&logoColor=white)
+- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white)
 
 ### GitHub Stats
 
@@ -27,10 +29,6 @@
 ### Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashTiwari-nitp&layout=compact&theme=radical)
-
-### GitHub Activity Graph
-
-[![Aakash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AakashTiwari-nitp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### GitHub Trophies
 
