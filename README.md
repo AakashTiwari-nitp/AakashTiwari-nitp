@@ -6,7 +6,7 @@
 
 - 🔭 I am currently exploring the Web Development 🌐
 - 📫 How to reach me 
-  - Email: [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:aakashtiwari1911@gmail.com), [![NITP Email](https://img.shields.io/badge/-NITP%20Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:aakashtiwari.ug23.cs@nitp.ac.in)
+  - Email: <a href="mailto:aakashtiwari1911@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Gmail" height="40" width="40" /></a> ,<a href="mailto:aakasht.ug23.cs@nitp.ac.in" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/b/b5/National_Institute_of_Technology%2C_Patna_Logo.png" alt="Gmail" height="40" width="40" /></a>
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/aakash-tiwari-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aakash Tiwari" height="30" width="40" /></a>
