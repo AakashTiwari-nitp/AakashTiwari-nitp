@@ -10,7 +10,6 @@
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/aakash-tiwari-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aakash Tiwari" height="30" width="40" /></a>
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-tiwari-in/)
 
 ### Languages Learned
 
