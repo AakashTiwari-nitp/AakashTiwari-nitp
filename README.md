@@ -37,3 +37,7 @@
 ### GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AakashTiwari-nitp&theme=radical)](https://git.io/streak-stats)
+
+### Profile Views
+
+![Profile views counter](https://komarev.com/ghpvc/?username=AakashTiwari-nitp&&style=flat-square)  
